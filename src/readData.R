@@ -1,4 +1,3 @@
-text editor
-new line
+#read in the data
 
-more text to add
+kahuna <-read.csv("2018-11-26_2017-Cape-Hatteras-BRS-kahuna-CEE.csv")
